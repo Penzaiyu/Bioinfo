@@ -1,0 +1,4 @@
+sample	group	fq1	fq2
+sample_1	control	/path/to/sample_1_R1.fastq.gz	/path/to/sample_1_R2.fastq.gz
+sample_2	control	/path/to/sample_2_R1.fastq.gz	/path/to/sample_2_R2.fastq.gz
+sample_3	treated	/path/to/sample_3_R1.fastq.gz	/path/to/sample_3_R2.fastq.gz
